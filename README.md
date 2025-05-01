@@ -1,5 +1,5 @@
-<h1 align="center">OLÁ MUNDO! EU SOU O KAIKY HERNAIDE</h1>
-<h3 align="center">estou aprendendo html, css e javascript</h3>
+<h1 align="center">OLÁ, MUNDO! EU SOU O KAIKY HERNAIDE.</h1>
+<h3 align="center">Estou aprendendo HTML, CSS e javaScript.</h3>
 
 
 <h3 align="left">Conecte-se comigo:</h3>
